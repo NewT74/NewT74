@@ -28,7 +28,3 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![newt74's github stats](https://github-readme-stats.vercel.app/api?username=newt74&show_icons=true&theme=dracula)
